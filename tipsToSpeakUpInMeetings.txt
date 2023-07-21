@@ -1,0 +1,61 @@
+"Don't listen to the person who has all the answers, listen to the person who has the questions." Einstein
+
+- Avoid softeners like: "I'm not sure if this is right, but ...", "It might be a silly idea, but...", "Sorry if this is going off-track, but..", 
+  - This kind of softener seems polite, but it reflects your lower confidence and results in lower acceptance or lower impact of your message before you made your points.
+- Avoid using the word "just" like, "I just wanted to share", "I just like to add", "I just have a quick question"
+  - "Just" reflects uncertainty and hesitant
+  - Instead use assertive sentences like, "I'd like to share", "I like to add", I have a question"
+
+- To make a chance to speak up in the meeting:
+  - Instead of waiting politely for an invitation to speak, Seize your chance as soon as someone ends their points
+  - Add something like: "Great idea, that brings to my mind another point.." and continue without hesitation
+  - Making a connection to what was previously just shared with what you have to say next is less offensive/awkward and people will be open to listen
+- There is rarely a perfect moment, so look for the cue and make the connection and speak up.
+- remind yourself, why you have been invited to the meeting and try to research that topic prior to the meeting
+  - make some questions to ask
+  - try to contribute to the meeting with like:
+    - "I have reviewed the agenda and I'm looking forward to discussing ...", "I also wanted to mention ....., which I think is important to consider."
+
+- People remember messages shared at the beginning and the end of a session.
+  - if you are quiet in the meetings or little to continue, place yourself speaking up by being one of the first to speak or one of the last.
+  - start strong by sharing an intriguing idea linked to the meeting agenda, or thought that emerged from the previous meeting.
+  - Something like: "I stumbled on an interesting article that matched with our project idea and help us with our issue in ...."
+  - Or you can finish up by recapping the main points that happened during the meeting and try to make sure you and all people in the meeting are on the same page
+  - also you can end the meeting by asking for suggestions from colleagues and appreciating their feedback
+  - like: "I'd like to spotlight Jake's idea on... It's worth investigating before our next meeting."
+
+- If you think you are not being able to contribute with any suggestions in the meeting, try to contribute by asking timely and strategic questions.
+  - Stimulate critical thinking: when you notice suggestions in the meetings haven't been proven, ask open-ended questions challenging assumptions of any risks
+    - Like: "What assumptions are we making? And are those assumptions valid?"
+    - "What are the alternatives and how do they compare?"
+    - "What evidence do we have to support this and is it reliable?"
+  - Shift attention to the meeting outcomes
+    - If you notice the conversation going in a circle or out of topic, ask questions to steer the convo back to the meeting's topic
+      - "In the interest of time, are we addressing the most important objectives?"
+      - "What decision should we make to achieve the outcome for this agenda?"
+
+- Mastering good timing in meetings requires reading the room's emotions.
+  - observe body language. If people are actively engaging and interested in the convo, or sitting back with their arms crossed bored and disagreed
+  - assess the mood by observing the meeting's emotional pulse. Is it enthusiastic and collaborative or seems tense?
+    - if the meeting going with new ideas, chip in your views, otherwise wait until the energy lifts.
+
+-Always tell them what you're going to tell them and why
+  - Frame your ideas or give some pre-intro before making your points
+    - Like: "I know we've been facing ongoing issues with this git branch, so I've compiled my changes in the new branch and wanted to share my findings about what worked and what didn't."
+    - The group will now know what they should expect and now you can slowly make all your points.
+    - After making yoru points ask people to give their feedback or advice on improving your outcomes.
+
+- To make your input valuable and strong:
+  - build on the idea:
+    - take the opportunity to expand on the idea
+      - Like "Jake, I like your suggestion in that issue, I'd also like to add that if we add this testing in your suggestion we can finish and resolve this issue quickly."
+  - Be Curious:
+    - Like: "I'd like to highlight what Jake shared earlier, that suggestion align with what I shared earlier, so I will vote for Jake's opinion."
+
+- To intro yourself in the meeting of unfamiliar people, always remember:
+  - Name and Title: "Hi, I'm Jake, Cloud Security Expert from NASA's AWS team."
+  - Express Thanks: "Thanks for inviting me to join the meeting."
+  - Show Enthusiasm: "I'm really looking forward to listening to your ideas for this meeting agenda."
+  - Add value: "and share some technical views to help make this meeting successful and fruitful to everyone who joined."
+
+- Studies reveal that who actively participate in meetings are perceived as more confident, competent, and helpful to others.
